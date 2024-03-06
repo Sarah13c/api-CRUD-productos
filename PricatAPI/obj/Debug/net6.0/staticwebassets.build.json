@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xbe+I9gQFEP7mSlLmErZVBCj6LTSUiPvrdgBbU57YfM=",
+  "Source": "PricatAPI",
+  "BasePath": "_content/PricatAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
